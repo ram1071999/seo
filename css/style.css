@@ -1,0 +1,99 @@
+*{
+	margin: 0px;
+	padding:0px ;
+}
+
+#f1{
+	background: rgba(60,100, 150,1.0);
+}
+
+#f2{
+	background-color: #ffff;
+}
+#first_col{
+	background-color: #bdc3c7;
+
+}
+#btn1{
+	background: rgba(60,100, 150,1.0);
+
+}
+#icon ul li a{
+	 opacity: 0.5;
+	}
+#icon ul li a:hover{
+	opacity: 1.0;
+}
+#collapse{
+	color: black;
+}
+#collapsibleNavbar1 ul{
+	margin-left:39%;
+	float: right;
+}
+#collapsibleNavbar1 ul li{
+
+}
+
+#navbar-brand{
+	font-family: Harlow Solid Italic;
+}
+
+#logo{
+	width:200px;
+	height:60px;
+}
+
+#imgb{
+	width: 100%;
+	opacity: 0.3;
+	color: black;
+	background-color:black;
+	height: 200px;
+
+}
+#h3{
+	top: 185px;
+	text-align:center;
+	margin-left:38%;
+	font-size: 40px;
+
+}
+hr{
+	border: 50px solid #bdc3c7;
+}
+#seo_work{
+	height:400px;
+	width:100%;
+}
+footer{
+	max-height: 400px;
+	max-width: 100%;
+	background-color: dark;
+}
+.page-footer{
+	max-height: 700px;
+	background: rgba(60,100, 150,1.0);
+
+}
+#icon li a{
+	color: #fff;
+	opacity: 0.5;
+}
+#icon li a:hover{
+	opacity: 1.0;
+
+}
+#social li a{
+	opacity: 0.5;
+	color: #ffff;
+}
+#social li a:hover{
+	opacity: 1.0;
+}
+#add{
+	color: #ccc;
+}
+.footer_seo li a{
+	color: #ffff;
+}
